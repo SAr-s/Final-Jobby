@@ -1,0 +1,31 @@
+.card {
+  background-color: #202020;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.first-part {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.image {
+  margin-right: 10px;
+  height: 50px;
+  width: 50px;
+}
+.title {
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+}
+.rating {
+  color: white;
+}
+.line {
+  color: white;
+  width: 1000px;
+}

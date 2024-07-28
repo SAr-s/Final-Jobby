@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #202020;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+}
+.logout {
+  background-color: #4f46e5;
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  width: 100px;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+}
+.text {
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+}
+.logo-button {
+  background: transparent;
+  border: 0px;
+}

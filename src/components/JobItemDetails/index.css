@@ -1,0 +1,90 @@
+.life {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card {
+  background-color: #272727;
+  background-size: cover;
+  padding: 50px;
+}
+.first-part {
+  display: flex;
+  flex-direction: row;
+}
+.star {
+  color: yellow;
+}
+.map {
+  color: white;
+  margin-right: 10px;
+}
+.coloring {
+  color: white;
+  margin-right: 50px;
+}
+
+.address {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.map-emp {
+  display: flex;
+  flex-direction: row;
+}
+.web-link {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.link {
+  font-size: 25px;
+  margin-right: 50px;
+  align-self: center;
+}
+.link-icon {
+  margin-top: 12px;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.skill-name {
+  column-count: 3;
+}
+.each-skill {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+}
+.skill-logo {
+  margin-right: 10px;
+}
+.details-page {
+  background-color: black;
+  background-size: cover;
+  padding: 50px;
+}
+.similar-job {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-count: 3;
+}
+.failure {
+  display: flex;
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.retry-button {
+  background-color: #4f46e5;
+  padding: 10px;
+  border: 0px;
+  color: white;
+  width: 100px;
+  border-radius: 5px;
+}
